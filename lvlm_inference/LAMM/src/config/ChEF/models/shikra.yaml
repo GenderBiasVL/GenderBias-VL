@@ -1,0 +1,3 @@
+model_name: Shikra
+model_path: shikras/shikra-7b
+encoder_ckpt_path: openai/clip-vit-large-patch14

@@ -1,0 +1,2 @@
+model_name: MiniGPT-4-v2
+cfg_path: ChEF/models/minigpt4_v2/minigptv2_eval.yaml

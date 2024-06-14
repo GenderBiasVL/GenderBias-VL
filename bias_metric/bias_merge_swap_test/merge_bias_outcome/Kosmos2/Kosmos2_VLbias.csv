@@ -1,0 +1,487 @@
+occtm,occtf,occtm_ratio,occtf_ratio,occtm_acc,occtf_acc,bias,acc,ipss,acc_delta
+Dishwasher,First-line supervisor of food preparation and serving workers,23.10,53.50,56.25,23.75,16.25,40.00,35.73,60.00
+Food service manager,Nutritionist,46.70,86.30,48.75,50.00,15.00,49.38,40.00,78.75
+First-line supervisor of housekeeping and janitorial workers,Social and human service assistant,44.10,75.30,47.73,72.50,12.09,60.12,45.80,75.22
+Cost estimator,Insurance underwriter,17.70,56.90,36.25,38.75,11.88,37.50,25.94,25.00
+First-line supervisor of non-retail sales workers,Supervisor of personal care and service workers,35.90,65.80,33.92,50.00,11.54,41.96,31.82,73.22
+Retail salesperson,Order clerk,49.20,58.30,50.00,62.50,11.32,56.25,44.55,36.90
+Counter and rental clerk,Executive secretary,38.70,90.00,56.25,47.92,11.25,52.08,32.89,75.00
+Web developer,Loan interviewer,19.40,76.90,31.25,66.00,10.77,48.62,37.75,35.25
+Training and development manager,Administrative services manager,48.00,74.00,51.25,27.50,10.62,39.38,30.92,71.25
+Financial and investment analyst,Marketing specialist,43.90,61.70,50.00,47.50,10.62,48.75,43.12,57.50
+Architectural and engineering manager,Human resources worker,12.80,76.50,43.75,52.50,10.62,48.12,43.09,26.25
+Operation manager,Public relations specialist,37.10,76.20,35.00,87.50,10.62,61.25,53.69,22.50
+Computer systems manager,Medical and health services manager,27.70,71.80,72.50,32.50,10.62,52.50,42.30,50.00
+Computer numerically controlled tool operator,Filling machine operator,7.80,57.30,48.75,66.25,10.00,57.50,54.44,82.50
+Computer systems manager,File Clerk,27.70,76.00,32.50,44.00,10.00,38.25,28.66,54.50
+Operation manager,Social and community service manager,37.10,71.70,40.00,75.00,9.38,57.50,54.20,60.00
+Computer systems analyst,File Clerk,37.80,76.00,55.00,48.00,9.23,51.50,31.48,64.00
+Counter and rental clerk,Payroll and timekeeping clerk,38.70,88.20,75.00,36.95,8.97,55.98,36.59,31.52
+Web developer,Insurance sales agent,19.40,54.90,48.75,36.37,8.87,42.55,33.84,80.56
+Financial and investment analyst,Insurance underwriter,43.90,56.90,86.25,31.25,8.75,58.75,48.61,37.50
+Database administrator,Customer service representative,30.80,65.30,55.00,39.28,8.09,47.15,34.42,36.78
+Cafeteria attendant,First-line supervisor of food preparation and serving workers,43.30,53.50,65.00,48.75,8.00,56.88,51.81,51.25
+Counter and rental clerk,Customer service representative,38.70,65.30,50.00,35.72,7.96,42.85,39.01,78.58
+Computer programmer,Loan interviewer,21.50,76.90,56.25,50.00,7.70,53.12,31.05,21.25
+First-line supervisor of production and operating workers,Filling machine operator,23.50,57.30,48.15,63.75,7.47,55.95,54.09,84.40
+Counter and rental clerk,Postal service clerk,38.70,54.10,56.25,50.00,7.14,53.12,44.08,65.46
+First-line supervisor of non-retail sales workers,Insurance claims and policy processing clerk,35.90,80.10,41.07,53.95,6.82,47.51,44.28,81.86
+Computer hardware engineer,Biological scientist,5.90,55.00,40.33,50.00,6.61,45.16,40.57,87.09
+Food service manager,Entertainment and recreation manager,46.70,50.10,48.75,56.76,6.49,52.75,40.55,38.48
+Cafeteria attendant,Fast food and counter worker,43.30,66.30,50.00,56.89,6.41,53.45,46.00,45.52
+First-line supervisor of correctional officers,Probation officer,35.90,57.40,43.42,46.25,6.41,44.83,34.49,2.57
+Industrial production manager,Operations research analyst,19.10,55.00,45.00,41.25,6.25,43.12,42.03,51.25
+Materials engineer,Psychiatric technician,13.50,69.50,48.75,68.75,6.25,58.75,56.47,62.50
+Computer network architect,File Clerk,7.70,76.00,66.25,38.00,6.16,52.12,40.95,45.75
+Parts salesperson,Order clerk,22.90,58.30,44.59,57.81,5.79,51.20,45.61,65.16
+First-line supervisor of housekeeping and janitorial workers,First-line supervisor of food preparation and serving workers,44.10,53.50,36.36,62.50,5.64,49.43,35.53,7.04
+Architectural and engineering manager,Marketing manager,12.80,62.40,40.00,43.75,5.62,41.88,26.53,33.75
+Facilities manager,Social and human service assistant,23.40,75.30,47.50,46.25,5.62,46.88,44.02,33.75
+Software quality tester,Advertising sales agent,44.10,52.70,25.00,84.61,5.30,54.81,50.44,23.84
+Retail salesperson,Cashier,49.20,69.80,52.38,48.62,5.26,50.49,48.90,60.52
+Computer support specialist,First-line supervisor of office and administrative support workers,26.20,65.80,56.25,50.00,5.22,53.12,52.80,93.75
+Mechanical engineer,Biological scientist,10.10,55.00,50.00,50.00,5.19,50.00,42.85,100.00
+Dentist,Physician assistant,39.50,68.80,53.95,51.25,5.13,52.60,41.27,47.30
+Operation manager,Human resources worker,37.10,76.50,40.00,60.00,5.00,50.00,33.19,32.50
+First-line supervisor of security workers,Compliance officer,22.50,51.80,48.75,57.50,5.00,53.12,44.91,61.25
+Computer programmer,Editor,21.50,56.60,40.00,51.25,5.00,45.62,23.68,33.75
+Cook,First-line supervisor of food preparation and serving workers,39.80,53.50,42.50,31.25,5.00,36.88,28.46,71.25
+Photographer,Author,48.50,53.80,51.25,38.75,5.00,45.00,40.25,55.00
+Dentist,Dental assistant,39.50,92.80,50.00,50.00,4.90,50.00,50.00,100.00
+Boiler operator,Filling machine operator,7.10,57.30,76.47,48.75,4.73,62.61,48.20,48.46
+Counter and rental clerk,Receptionist,38.70,89.10,43.75,50.00,4.54,46.88,30.98,46.43
+Occupational health and safety specialist,Insurance claims and policy processing clerk,17.90,80.10,45.00,76.31,4.49,60.66,52.61,50.27
+Facilities manager,Administrative services manager,23.40,74.00,56.25,46.25,4.38,51.25,42.47,52.50
+Training and development manager,Financial manager,48.00,56.20,50.00,42.50,4.38,46.25,40.58,87.50
+Postsecondary teacher,Social and community service manager,46.60,71.70,60.00,50.00,4.38,55.00,49.69,70.00
+Software quality tester,Insurance underwriter,44.10,56.90,67.50,26.25,4.38,46.88,40.12,26.25
+Web and digital interface designer,Public relations specialist,42.70,76.20,50.00,50.00,4.38,50.00,44.38,100.00
+Electrical and electronic engineering technician,Medical and health services manager,11.60,71.80,52.50,42.50,4.38,47.50,32.40,52.50
+Construction and building inspector,Real estate broker,10.50,57.00,50.00,50.00,4.38,50.00,49.38,100.00
+Postsecondary teacher,Elementary and middle school teacher,46.60,78.60,53.75,50.00,4.35,51.88,46.88,91.25
+Occupational health and safety specialist,Payroll and timekeeping clerk,17.90,88.20,47.50,50.00,3.96,48.75,47.20,97.50
+Chemical engineer,Ophthalmic medical technician,21.60,73.70,45.00,50.00,3.92,47.50,38.48,80.00
+First-line supervisor of retail sales workers,Customer service representative,44.60,65.30,48.61,46.43,3.91,47.52,46.36,73.61
+Computer programmer,Graphic designer,21.50,54.70,40.00,60.81,3.90,50.41,30.27,43.17
+Personal financial advisor,Tax preparer,32.60,66.30,52.50,36.48,3.90,44.50,40.90,65.47
+Software quality tester,Loan interviewer,44.10,76.90,36.25,60.00,3.85,48.12,45.44,72.25
+Chemical technician,Medical scientist,35.00,51.80,51.78,47.37,3.79,49.58,31.70,32.98
+Facilities manager,Human resources worker,23.40,76.50,41.25,50.00,3.75,45.62,38.97,81.25
+Food service manager,First-line supervisor of food preparation and serving workers,46.70,53.50,50.00,27.50,3.75,38.75,37.30,55.00
+Information security analyst,Public relations specialist,19.30,76.20,52.50,53.75,3.75,53.12,45.69,63.75
+Postsecondary teacher,Insurance underwriter,46.60,56.90,61.25,38.75,3.75,50.00,49.39,67.50
+Lawyer,Public relations specialist,39.50,76.20,46.25,60.00,3.75,53.12,52.14,53.75
+Cutting worker,Filling machine operator,31.10,57.30,50.00,48.75,3.75,49.38,47.05,76.25
+Computer support specialist,Compliance officer,26.20,51.80,50.00,45.00,3.75,47.50,46.53,75.00
+Software quality tester,Customer service representative,44.10,65.30,46.25,44.64,3.67,45.45,44.07,79.82
+Correctional officer,Probation officer,33.90,57.40,46.88,51.25,3.57,49.06,40.45,35.62
+Postal service mail carrier,Postal service clerk,34.70,54.10,50.00,44.73,3.48,47.37,44.06,94.73
+First-line supervisor of housekeeping and janitorial workers,Medical assistant,44.10,88.80,50.00,73.81,3.48,61.91,56.34,52.38
+Emergency medical technician,Physician assistant,39.40,68.80,50.00,45.00,3.44,47.50,42.67,90.00
+Information security analyst,Insurance claims and policy processing clerk,19.30,80.10,48.75,50.00,3.21,49.38,46.91,91.25
+Software quality tester,Payroll and timekeeping clerk,44.10,88.20,43.75,65.22,3.18,54.48,40.95,35.60
+Training and development manager,Marketing manager,48.00,62.40,50.00,43.75,3.12,46.88,43.40,91.25
+Facilities manager,Human resources manager,23.40,76.50,48.75,48.75,3.12,48.75,47.52,92.50
+Sales manager,Human resources worker,33.10,76.50,53.75,42.50,3.12,48.12,44.41,51.25
+Facilities manager,Public relations manager,23.40,66.40,46.25,46.25,3.12,46.25,42.93,65.00
+Purchasing manager,Administrative services manager,47.70,74.00,55.00,41.25,3.12,48.12,40.45,53.75
+Architectural and engineering manager,Marketing specialist,12.80,61.70,46.25,55.00,3.12,50.62,45.02,66.25
+First-line supervisor of security workers,Probation officer,22.50,57.40,46.25,51.25,3.12,48.75,35.28,55.00
+First-line supervisor of housekeeping and janitorial workers,Supervisor of personal care and service workers,44.10,65.80,45.45,68.18,3.03,56.82,53.58,77.28
+Postsecondary teacher,School psychologist,46.60,87.90,51.25,50.00,2.77,50.62,28.01,16.25
+Electrical and electronics engineer,Medical appliance technician,11.60,58.90,50.00,50.00,2.74,50.00,41.78,100.00
+First-line supervisor of non-retail sales workers,Customer service representative,35.90,65.30,50.00,55.35,2.68,52.68,47.47,73.22
+Photographer,Graphic designer,48.50,54.70,56.25,51.35,2.59,53.80,51.53,39.96
+Project management specialist,Administrative services manager,47.30,74.00,55.00,45.00,2.50,50.00,47.62,90.00
+Facilities manager,Marketing manager,23.40,62.40,51.25,42.50,2.50,46.88,36.45,83.75
+Architectural and engineering manager,Public relations manager,12.80,66.40,37.50,76.25,2.50,56.88,48.17,13.75
+Operation manager,Financial manager,37.10,56.20,48.75,51.25,2.50,50.00,47.97,12.50
+Facilities manager,Financial manager,23.40,56.20,57.50,47.50,2.50,52.50,38.09,17.50
+Director,Editor,43.60,56.60,47.50,36.25,2.50,41.88,34.45,33.75
+Construction manager,Social and human service assistant,10.60,75.30,58.75,53.75,2.50,56.25,30.69,20.00
+First-line supervisor of police and detectives,Probation officer,10.50,57.40,50.00,58.75,2.50,54.38,52.38,61.25
+Computer programmer,Paralegal,21.50,83.00,40.00,55.00,2.50,47.50,30.66,55.00
+Wastewater treatment system operator,Medical and health services manager,7.30,71.80,50.00,58.75,2.50,54.38,52.70,51.25
+First-line supervisor of housekeeping and janitorial workers,Healthcare social worker,44.10,77.90,50.00,87.50,2.42,68.75,66.63,62.50
+Property assessor,Executive secretary,34.20,90.00,46.25,50.00,2.34,48.12,40.84,76.25
+Web developer,Customer service representative,19.40,65.30,48.75,48.22,2.21,48.48,30.18,75.17
+First-line supervisor of non-retail sales workers,Payroll and timekeeping clerk,35.90,88.20,48.21,50.00,1.96,49.11,47.75,58.62
+Software developer,Insurance claims and policy processing clerk,20.20,80.10,50.00,50.00,1.93,50.00,48.08,100.00
+Counter and rental clerk,Cashier,38.70,69.80,62.50,48.62,1.92,55.55,53.42,63.20
+Dentist,Pharmacist,39.50,57.80,50.00,42.50,1.92,46.25,37.44,39.34
+Purchasing manager,Human resources manager,47.70,76.50,50.00,48.75,1.88,49.38,48.71,93.75
+Architectural and engineering manager,Human resources manager,12.80,76.50,46.25,56.25,1.88,51.25,49.46,32.50
+Financial and investment analyst,Public relations manager,43.90,66.40,50.00,46.25,1.88,48.12,45.64,48.75
+Computer systems analyst,Operations research analyst,37.80,55.00,50.00,55.00,1.88,52.50,51.30,67.50
+Property assessor,Real estate broker,34.20,57.00,42.50,61.25,1.88,51.88,36.20,46.25
+Lawyer,Insurance underwriter,39.50,56.90,51.25,11.25,1.88,31.25,26.41,5.00
+Lawyer,Compliance officer,39.50,51.80,55.00,48.75,1.88,51.88,40.16,38.75
+Chef,First-line supervisor of food preparation and serving workers,23.30,53.50,50.00,23.75,1.88,36.88,35.16,61.25
+Director,Mental health counselor,43.60,74.60,50.00,48.75,1.88,49.38,45.67,98.75
+Director,Interior designer,43.60,85.30,48.75,58.75,1.88,53.75,33.95,5.00
+First-line supervisor of non-retail sales workers,First-line supervisor of office and administrative support workers,35.90,65.80,42.85,50.00,1.82,46.43,44.74,92.85
+Counter and rental clerk,Social and human service assistant,38.70,75.30,50.00,47.50,1.79,48.75,38.10,77.50
+First-line supervisor of retail sales workers,Billing and posting clerk,44.60,91.40,43.05,36.95,1.70,40.00,39.20,64.19
+Materials engineer,Miscellaneous health technician,13.50,72.70,52.50,50.00,1.64,51.25,49.48,92.50
+Sales manager,Insurance sales agent,33.10,54.90,53.75,47.73,1.61,50.74,45.63,77.38
+Software developer,Insurance sales agent,20.20,54.90,50.00,43.18,1.61,46.59,45.84,61.59
+Personal financial advisor,Travel agent,32.60,79.70,50.00,50.00,1.56,50.00,45.31,100.00
+Network and computer systems administrator,Executive secretary,16.70,90.00,50.00,50.00,1.56,50.00,40.01,79.17
+Web developer,Advertising sales agent,19.40,52.70,47.50,50.00,1.52,48.75,48.01,97.50
+Security guard,Compliance officer,24.90,51.80,44.45,41.25,1.50,42.84,42.43,29.77
+Computer support specialist,Receptionist,26.20,89.10,48.75,44.64,1.47,46.69,37.03,86.25
+First-line supervisor of non-retail sales workers,Social and human service assistant,35.90,75.30,46.43,52.50,1.47,49.47,47.31,93.93
+Surgeon,Biological scientist,20.00,55.00,20.97,50.00,1.47,35.48,34.96,70.97
+Computer systems manager,Receptionist,27.70,89.10,40.00,57.14,1.47,48.58,44.01,58.93
+First-line supervisor of housekeeping and janitorial workers,Nursing assistant,44.10,90.10,50.00,54.16,1.47,52.09,47.12,54.16
+Postsecondary teacher,Special education teacher,46.60,86.60,52.50,48.44,1.39,50.47,32.41,24.69
+Electrical and electronic engineering technician,Insurance claims and policy processing clerk,11.60,80.10,58.75,50.00,1.28,54.38,49.96,63.75
+Sales manager,Public relations manager,33.10,66.40,52.50,50.00,1.25,51.25,42.42,80.00
+Management analyst,Human resources manager,46.60,76.50,47.50,48.75,1.25,48.12,42.25,73.75
+Sales manager,Administrative services manager,33.10,74.00,50.00,47.50,1.25,48.75,47.53,97.50
+Industrial production manager,Human resources manager,19.10,76.50,47.50,46.25,1.25,46.88,36.37,51.25
+Architectural and engineering manager,Social and community service manager,12.80,71.70,47.50,50.00,1.25,48.75,48.14,90.00
+Operation manager,Compliance officer,37.10,51.80,50.00,48.75,1.25,49.38,39.11,36.25
+Supervisor of transportation and material moving workers,Supervisor of personal care and service workers,25.50,65.80,48.48,50.00,1.14,49.24,49.13,80.30
+First-line supervisor of retail sales workers,Supervisor of personal care and service workers,44.60,65.80,41.66,50.00,1.06,45.83,42.98,77.78
+Chemical technician,Medical assistant,35.00,88.80,50.00,50.00,1.02,50.00,39.61,63.09
+Construction manager,Supervisor of personal care and service workers,10.60,65.80,62.50,31.82,0.98,47.16,35.58,59.32
+Correctional officer,Public safety telecommunicator,33.90,78.20,53.12,50.00,0.93,51.56,50.64,96.88
+First-line supervisor of retail sales workers,Insurance sales agent,44.60,54.90,51.39,50.00,0.86,50.70,50.67,95.83
+Mechanical engineer,Miscellaneous health technician,10.10,72.70,51.25,50.00,0.82,50.62,48.93,93.75
+Software quality tester,Insurance sales agent,44.10,54.90,41.25,50.00,0.81,45.62,35.04,33.52
+Network and computer systems administrator,Billing and posting clerk,16.70,91.40,50.00,50.00,0.79,50.00,47.62,100.00
+Software developer,Advertising sales agent,20.20,52.70,50.00,50.00,0.75,50.00,48.48,100.00
+Computer support specialist,Customer service representative,26.20,65.30,50.00,46.43,0.74,48.22,39.70,96.43
+First-line supervisor of retail sales workers,Order clerk,44.60,58.30,51.39,60.94,0.73,56.16,55.97,59.89
+Construction manager,Receptionist,10.60,89.10,50.00,53.58,0.73,51.79,47.16,89.28
+Electrical and electronics engineer,Biological scientist,11.60,55.00,50.00,50.00,0.71,50.00,50.00,100.00
+Painter,Artist,10.40,51.60,51.43,46.25,0.67,48.83,48.31,61.25
+Computer network architect,Public safety telecommunicator,7.70,78.20,35.00,61.84,0.64,48.42,38.58,68.03
+Chemical engineer,Medical scientist,21.60,51.80,50.00,48.69,0.64,49.34,49.12,28.95
+Web developer,Insurance claims and policy processing clerk,19.40,80.10,48.75,50.00,0.64,49.38,48.74,98.75
+Lawyer,Loan officer,39.50,51.60,51.25,47.44,0.63,49.34,45.63,85.93
+Training and development manager,Human resources manager,48.00,76.50,50.00,50.00,0.62,50.00,50.00,100.00
+Training and development manager,Marketing specialist,48.00,61.70,50.00,51.25,0.62,50.62,50.62,98.75
+Architectural and engineering manager,Administrative services manager,12.80,74.00,50.00,47.50,0.62,48.75,40.83,97.50
+Management analyst,Human resources worker,46.60,76.50,33.75,46.25,0.62,40.00,33.56,60.00
+Industrial production manager,Administrative services manager,19.10,74.00,50.00,48.75,0.62,49.38,49.37,96.25
+Facilities manager,Marketing specialist,23.40,61.70,43.75,58.75,0.62,51.25,45.27,32.50
+Web and digital interface designer,Operations research analyst,42.70,55.00,51.25,50.00,0.62,50.62,48.10,98.75
+Industrial production manager,Social and community service manager,19.10,71.70,50.00,51.25,0.62,50.62,49.97,93.75
+Food service manager,Food preparation worker,46.70,58.70,50.00,50.00,0.62,50.00,50.00,100.00
+Postsecondary teacher,Public relations specialist,46.60,76.20,47.50,45.00,0.62,46.25,46.08,37.50
+Cutting worker,Sewing machine operator,31.10,70.70,41.25,50.00,0.62,45.62,41.95,28.75
+Electrical and electronic engineering technician,Social and human service assistant,11.60,75.30,50.00,47.50,0.62,48.75,33.00,67.50
+Director,Translator,43.60,74.40,41.25,50.00,0.62,45.62,42.37,38.75
+Wastewater treatment system operator,Medical appliance technician,7.30,58.90,50.00,48.75,0.62,49.38,43.24,86.25
+Training and development manager,Training and development specialist,48.00,56.70,50.00,50.00,0.00,50.00,50.00,100.00
+Project management specialist,Training and development specialist,47.30,56.70,50.00,50.00,0.00,50.00,50.00,100.00
+Project management specialist,Marketing specialist,47.30,61.70,50.00,50.00,0.00,50.00,49.38,97.50
+Sales manager,Financial manager,33.10,56.20,51.25,50.00,0.00,50.62,36.07,26.25
+Management analyst,Public relations manager,46.60,66.40,45.00,56.25,0.00,50.62,42.40,58.75
+Training and development manager,Public relations manager,48.00,66.40,50.00,50.00,0.00,50.00,50.00,100.00
+Architectural and engineering manager,Training and development specialist,12.80,56.70,50.00,50.00,0.00,50.00,50.00,100.00
+Management analyst,Training and development specialist,46.60,56.70,50.00,50.00,0.00,50.00,50.00,100.00
+Industrial production manager,Marketing manager,19.10,62.40,43.75,38.75,0.00,41.25,41.25,17.50
+Software developer,Operations research analyst,20.20,55.00,50.00,50.00,0.00,50.00,49.38,97.50
+Web and digital interface designer,Marketing specialist,42.70,61.70,50.00,50.00,0.00,50.00,50.00,100.00
+Information security analyst,Administrative services manager,19.30,74.00,50.00,50.00,0.00,50.00,50.00,100.00
+Purchasing manager,Accountant,47.70,57.00,52.50,48.75,0.00,50.62,38.60,73.75
+Training and development manager,Social and community service manager,48.00,71.70,50.00,50.00,0.00,50.00,50.00,100.00
+Training and development manager,Insurance claims and policy processing clerk,48.00,80.10,50.00,50.00,0.00,50.00,50.00,100.00
+Web developer,Graphic designer,19.40,54.70,50.00,52.70,0.00,51.35,48.69,86.48
+Chemical technician,Biological scientist,35.00,55.00,50.00,50.00,0.00,50.00,50.00,100.00
+First-line supervisor of non-retail sales workers,Insurance sales agent,35.90,54.90,50.00,50.00,0.00,50.00,50.00,100.00
+First-line supervisor of retail sales workers,First-line supervisor of office and administrative support workers,44.60,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Property assessor,Accountant,34.20,57.00,50.00,48.75,0.00,49.38,46.91,81.25
+Web and digital interface designer,Insurance claims and policy processing clerk,42.70,80.10,50.00,50.00,0.00,50.00,50.00,100.00
+First-line supervisor of non-retail sales workers,Advertising sales agent,35.90,52.70,50.00,50.00,0.00,50.00,50.00,100.00
+Chemists and materials scientist,Biological scientist,36.00,55.00,50.00,50.00,0.00,50.00,50.00,100.00
+Cook,Baker,39.80,65.50,50.00,50.00,0.00,50.00,50.00,100.00
+Postsecondary teacher,Social and human service assistant,46.60,75.30,51.25,45.00,0.00,48.12,34.89,66.25
+Chemical technician,Miscellaneous health technician,35.00,72.70,50.00,50.00,0.00,50.00,50.00,100.00
+Web and digital interface designer,Customer service representative,42.70,65.30,50.00,48.21,0.00,49.11,28.17,92.15
+Personal financial advisor,Loan officer,32.60,51.60,50.00,50.00,0.00,50.00,50.00,100.00
+Web and digital interface designer,Social and community service manager,42.70,71.70,50.00,50.00,0.00,50.00,50.00,100.00
+Web and digital interface designer,Payroll and timekeeping clerk,42.70,88.20,50.00,50.00,0.00,50.00,40.48,100.00
+Occupational health and safety specialist,Order clerk,17.90,58.30,50.00,50.00,0.00,50.00,50.00,100.00
+Occupational health and safety specialist,Insurance sales agent,17.90,54.90,50.00,50.00,0.00,50.00,50.00,100.00
+Personal financial advisor,Insurance underwriter,32.60,56.90,56.25,47.50,0.00,51.88,50.58,53.75
+Printing press operator,Filling machine operator,24.70,57.30,50.00,50.00,0.00,50.00,50.00,100.00
+Web developer,Public relations specialist,19.40,76.20,50.00,50.00,0.00,50.00,50.00,100.00
+Photographer,Artist,48.50,51.60,50.00,48.75,0.00,49.38,45.67,63.75
+Surgeon,Physician assistant,20.00,68.80,51.62,48.75,0.00,50.18,42.41,72.13
+First-line supervisor of production and operating workers,First-line supervisor of office and administrative support workers,23.50,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Mechanical engineer,Medical scientist,10.10,51.80,46.25,53.95,0.00,50.10,35.33,40.85
+Occupational health and safety specialist,Advertising sales agent,17.90,52.70,50.00,50.00,0.00,50.00,50.00,100.00
+Database administrator,File Clerk,30.80,76.00,50.00,50.00,0.00,50.00,50.00,100.00
+Database administrator,Billing and posting clerk,30.80,91.40,50.00,50.00,0.00,50.00,50.00,100.00
+Occupational health and safety specialist,Medical and health services manager,17.90,71.80,50.00,50.00,0.00,50.00,50.00,100.00
+Emergency medical technician,Veterinary technician,39.40,89.90,50.00,50.00,0.00,50.00,50.00,100.00
+Logistician,Loan officer,38.70,51.60,50.00,50.00,0.00,50.00,50.00,100.00
+Database administrator,Insurance claims and policy processing clerk,30.80,80.10,50.00,50.00,0.00,50.00,50.00,100.00
+Occupational health and safety specialist,Customer service representative,17.90,65.30,50.00,50.00,0.00,50.00,50.00,100.00
+Logistician,Paralegal,38.70,83.00,50.00,50.00,0.00,50.00,50.00,100.00
+Printing press operator,Sewing machine operator,24.70,70.70,50.00,50.00,0.00,50.00,50.00,100.00
+Occupational health and safety specialist,Supervisor of personal care and service workers,17.90,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Computer support specialist,Loan officer,26.20,51.60,50.00,50.00,0.00,50.00,50.00,100.00
+Occupational health and safety specialist,First-line supervisor of office and administrative support workers,17.90,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Computer systems manager,Billing and posting clerk,27.70,91.40,50.00,50.00,0.00,50.00,50.00,100.00
+Computer systems analyst,Billing and posting clerk,37.80,91.40,50.00,50.00,0.00,50.00,50.00,100.00
+Chief executive,Fundraiser,30.60,74.90,43.75,57.50,0.00,50.62,44.30,28.75
+Surgeon,Miscellaneous health technician,20.00,72.70,50.00,50.00,0.00,50.00,46.16,100.00
+Automotive service mechanic,Medical appliance technician,2.50,58.90,50.00,50.00,0.00,50.00,50.00,100.00
+Computer programmer,Tutor,21.50,70.40,52.50,48.75,0.00,50.62,35.44,51.25
+Aerospace engineer,Medical scientist,15.20,51.80,50.00,50.00,0.00,50.00,50.00,100.00
+Computer support specialist,Billing and posting clerk,26.20,91.40,50.00,50.00,0.00,50.00,50.00,100.00
+Cook,Food batchmaker,39.80,55.70,50.00,50.00,0.00,50.00,50.00,100.00
+First-line supervisor of construction trades and extraction workers,First-line supervisor of office and administrative support workers,5.10,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Chef,Food batchmaker,23.30,55.70,50.00,50.00,0.00,50.00,50.00,100.00
+Supervisor of transportation and material moving workers,First-line supervisor of office and administrative support workers,25.50,65.80,50.00,50.00,0.00,50.00,50.00,100.00
+Emergency medical technician,Miscellaneous health technician,39.40,72.70,50.00,50.00,0.00,50.00,50.00,100.00
+Computer network architect,Loan officer,7.70,51.60,50.00,50.00,0.00,50.00,49.37,100.00
+First-line supervisor of housekeeping and janitorial workers,Medical and health services manager,44.10,71.80,47.73,50.00,0.00,48.86,48.86,97.72
+Emergency medical technician,Medical assistant,39.40,88.80,50.00,50.00,0.00,50.00,50.00,100.00
+Logistician,Legal secretary,38.70,96.40,50.00,50.00,0.00,50.00,50.00,100.00
+Police officer,Public safety telecommunicator,14.40,78.20,50.00,50.00,0.00,50.00,49.36,100.00
+Transportation service attendant,Flight attendant,23.40,78.00,50.00,50.00,0.00,50.00,50.00,100.00
+Computer network architect,Billing and posting clerk,7.70,91.40,50.00,50.00,0.00,50.00,50.00,100.00
+Emergency medical technician,Respiratory therapist,39.40,62.40,50.00,50.00,0.00,50.00,50.00,100.00
+Logistician,Tutor,38.70,70.40,50.00,50.00,0.00,50.00,50.00,100.00
+Dishwasher,Food preparation worker,23.10,58.70,53.75,50.00,0.00,51.88,39.55,96.25
+Food service manager,Food batchmaker,46.70,55.70,50.00,50.00,0.00,50.00,50.00,100.00
+Emergency medical technician,Licensed practical nurse,39.40,88.70,50.00,50.00,0.00,50.00,50.00,100.00
+Emergency medical technician,Radiologic technician,39.40,70.30,50.00,50.00,0.00,50.00,50.00,100.00
+Painting worker,Artist,11.30,51.60,57.50,46.25,0.00,51.88,37.61,41.25
+Logistician,Medical records specialist,38.70,88.90,50.00,50.00,0.00,50.00,50.00,100.00
+Aircraft pilot,Flight attendant,8.30,78.00,50.00,50.00,0.00,50.00,49.26,100.00
+Chef,Baker,23.30,65.50,50.00,50.00,0.00,50.00,50.00,100.00
+Sales manager,Marketing specialist,33.10,61.70,43.75,65.00,-0.62,54.38,48.58,21.25
+Purchasing manager,Public relations manager,47.70,66.40,46.25,48.75,-0.62,47.50,40.54,50.00
+Training and development manager,Human resources worker,48.00,76.50,50.00,50.00,-0.62,50.00,50.00,100.00
+Management analyst,Administrative services manager,46.60,74.00,48.75,50.00,-0.62,49.38,39.01,58.75
+Financial and investment analyst,Training and development specialist,43.90,56.70,51.25,50.00,-0.62,50.62,50.62,98.75
+Management analyst,Accountant,46.60,57.00,46.25,50.00,-0.62,48.12,42.11,96.25
+Facilities manager,Social and community service manager,23.40,71.70,50.00,50.00,-0.62,50.00,49.38,100.00
+Industrial production manager,Human resources worker,19.10,76.50,41.25,45.00,-0.62,43.12,31.54,41.25
+Architectural and engineering manager,Operations research analyst,12.80,55.00,50.00,48.75,-0.62,49.38,39.83,73.75
+Postsecondary teacher,Teaching assistant,46.60,79.50,48.75,52.50,-0.62,50.62,30.76,21.25
+Database administrator,Compliance officer,30.80,51.80,50.00,50.00,-0.62,50.00,46.88,100.00
+Computer systems manager,Compliance officer,27.70,51.80,50.00,47.50,-0.62,48.75,42.45,62.50
+Occupational health and safety specialist,Social and human service assistant,17.90,75.30,50.00,52.50,-0.62,51.25,50.59,97.50
+Director,Artist,43.60,51.60,52.50,50.00,-0.62,51.25,38.53,72.50
+Cook,Food preparation worker,39.80,58.70,50.00,50.00,-0.62,50.00,48.12,100.00
+Construction manager,Medical and health services manager,10.60,71.80,73.75,48.75,-0.62,61.25,59.45,60.00
+Police officer,Probation officer,14.40,57.40,50.00,52.50,-0.62,51.25,32.34,20.00
+Chemical engineer,Pharmacist,21.60,57.80,50.00,46.25,-0.62,48.12,44.21,1.25
+Electrical and electronic engineering technician,Filling machine operator,11.60,57.30,51.25,50.00,-0.62,50.62,49.44,76.25
+Chef,Food preparation worker,23.30,58.70,50.00,50.00,-0.62,50.00,48.75,100.00
+Database administrator,Loan officer,30.80,51.60,47.50,67.95,-0.64,57.73,31.62,51.73
+Building cleaner,Housekeeping cleaner,38.70,88.40,50.00,50.00,-0.69,50.00,49.31,100.00
+Cutting worker,Laundry worker,31.10,74.50,51.25,50.00,-0.69,50.62,49.91,96.25
+Logistician,School psychologist,38.70,87.90,50.00,51.56,-0.70,50.78,49.34,92.19
+Chemical technician,Pharmacist,35.00,57.80,64.28,45.00,-0.73,54.64,17.23,11.07
+Chemical technician,Medical appliance technician,35.00,58.90,53.57,48.75,-0.74,51.16,48.93,95.18
+Web and digital interface designer,Advertising sales agent,42.70,52.70,50.00,46.16,-0.76,48.08,34.21,91.16
+Supervisor of transportation and material moving workers,Order clerk,25.50,58.30,50.00,50.00,-0.77,50.00,50.00,100.00
+Computer support specialist,Executive secretary,26.20,90.00,48.75,50.00,-0.78,49.38,46.20,74.58
+Information security analyst,Payroll and timekeeping clerk,19.30,88.20,48.75,47.83,-0.79,48.28,43.49,45.49
+Stocker,Order clerk,36.50,58.30,41.94,43.75,-0.79,42.84,36.90,41.33
+Electrical and electronic engineering technician,Billing and posting clerk,11.60,91.40,50.00,47.83,-0.79,48.91,47.35,95.33
+Chiropractor,Massage therapist,41.10,83.70,50.00,50.00,-0.81,50.00,49.20,100.00
+Property assessor,Insurance sales agent,34.20,54.90,50.00,47.73,-0.81,48.86,45.07,60.91
+Retail salesperson,Real estate broker,49.20,57.00,54.76,45.00,-0.81,49.89,43.93,46.19
+Chiropractor,Physical therapist assistant,41.10,68.70,50.00,50.00,-0.91,50.00,49.09,100.00
+Electrical and electronic engineering technician,Ophthalmic medical technician,11.60,73.70,50.00,50.00,-0.98,50.00,46.08,100.00
+First-line supervisor of housekeeping and janitorial workers,First-line supervisor of office and administrative support workers,44.10,65.80,52.27,50.00,-1.02,51.13,51.12,97.72
+Chiropractor,Physical therapist,41.10,67.50,50.00,50.00,-1.02,50.00,48.98,100.00
+Surgeon,Dental assistant,20.00,92.80,50.00,50.00,-1.14,50.00,48.88,96.77
+Sales manager,Marketing manager,33.10,62.40,50.00,48.75,-1.25,49.38,36.26,73.75
+Information security analyst,Operations research analyst,19.30,55.00,60.00,38.75,-1.25,49.38,44.13,48.75
+Financial and investment analyst,Operations research analyst,43.90,55.00,58.75,42.50,-1.25,50.62,47.98,18.75
+Purchasing manager,Human resources worker,47.70,76.50,45.00,43.75,-1.25,44.38,37.64,76.25
+Software developer,Marketing specialist,20.20,61.70,47.50,50.00,-1.25,48.75,43.38,80.00
+Facilities manager,Training and development specialist,23.40,56.70,47.50,50.00,-1.25,48.75,47.53,97.50
+Operation manager,Human resources manager,37.10,76.50,47.50,53.75,-1.25,50.62,40.11,61.25
+Cost estimator,Accountant,17.70,57.00,32.50,51.25,-1.25,41.88,38.42,33.75
+Electrical and electronic engineering technician,Medical appliance technician,11.60,58.90,53.75,47.50,-1.25,50.62,48.68,93.75
+Logistician,Compliance officer,38.70,51.80,50.00,47.50,-1.25,48.75,48.72,92.50
+Personal financial advisor,Real estate broker,32.60,57.00,50.00,48.75,-1.25,49.38,48.76,96.25
+Materials engineer,Medical appliance technician,13.50,58.90,51.25,50.00,-1.25,50.62,49.99,98.75
+Software quality tester,Public relations specialist,44.10,76.20,43.75,56.25,-1.25,50.00,44.83,72.50
+Mechanical engineer,Medical appliance technician,10.10,58.90,50.00,50.00,-1.25,50.00,45.73,82.50
+Construction manager,Real estate broker,10.60,57.00,50.00,52.50,-1.25,51.25,51.22,97.50
+Cutting worker,Food preparation worker,31.10,58.70,50.00,50.00,-1.25,50.00,49.38,97.50
+Counter and rental clerk,Billing and posting clerk,38.70,91.40,53.12,50.00,-1.28,51.56,48.80,84.38
+Materials engineer,Medical scientist,13.50,51.80,48.75,50.00,-1.28,49.38,44.53,65.20
+Computer support specialist,Public safety telecommunicator,26.20,78.20,38.75,56.58,-1.28,47.66,43.91,82.17
+Property assessor,Tax preparer,34.20,66.30,45.00,48.65,-1.30,46.83,20.50,47.84
+Software developer,Graphic designer,20.20,54.70,48.75,54.05,-1.30,51.40,42.33,61.18
+Materials engineer,Graphic designer,13.50,54.70,55.00,54.05,-1.30,54.53,48.40,70.75
+First-line supervisor of production and operating workers,Supervisor of personal care and service workers,23.50,65.80,48.15,54.55,-1.31,51.34,51.22,84.51
+Refractory machinery mechanic,Filling machine operator,3.90,57.30,50.00,50.00,-1.39,50.00,47.91,100.00
+Computer hardware engineer,Medical appliance technician,5.90,58.90,50.00,50.00,-1.41,50.00,50.00,100.00
+Computer systems analyst,Legal secretary,37.80,96.40,50.00,50.00,-1.45,50.00,39.85,100.00
+Chief executive,Legal secretary,30.60,96.40,48.75,51.72,-1.45,50.24,49.38,81.69
+Web developer,Receptionist,19.40,89.10,50.00,50.00,-1.47,50.00,47.06,100.00
+Computer programmer,Receptionist,21.50,89.10,48.75,64.28,-1.47,56.52,52.50,18.03
+First-line supervisor of production and operating workers,First-line supervisor of food preparation and serving workers,23.50,53.50,50.00,50.00,-1.49,50.00,39.23,56.30
+Telecommunication equipment installer,Medical appliance technician,5.90,58.90,50.00,47.50,-1.50,48.75,48.67,87.50
+Database administrator,Advertising sales agent,30.80,52.70,50.00,50.00,-1.51,50.00,50.00,100.00
+Chemical engineer,Miscellaneous health technician,21.60,72.70,52.50,50.00,-1.64,51.25,51.21,97.50
+Management analyst,Marketing specialist,46.60,61.70,46.25,56.25,-1.88,51.25,40.30,40.00
+Project management specialist,Public relations manager,47.30,66.40,48.75,50.00,-1.88,49.38,47.52,98.75
+Financial and investment analyst,Administrative services manager,43.90,74.00,58.75,47.50,-1.88,53.12,51.63,88.75
+Industrial production manager,Financial manager,19.10,56.20,45.00,50.00,-1.88,47.50,42.05,42.50
+Industrial production manager,Training and development specialist,19.10,56.70,50.00,50.00,-1.88,50.00,48.12,100.00
+Financial and investment analyst,Human resources manager,43.90,76.50,50.00,37.50,-1.88,43.75,43.59,70.00
+Information security analyst,Training and development specialist,19.30,56.70,46.25,50.00,-1.88,48.12,46.32,96.25
+Lawyer,Accountant,39.50,57.00,50.00,41.25,-1.88,45.62,39.40,86.25
+Information security analyst,Social and community service manager,19.30,71.70,50.00,50.00,-1.88,50.00,49.38,100.00
+Property assessor,Lodging manager,34.20,61.60,57.50,42.50,-1.88,50.00,44.62,7.50
+Personal financial advisor,Mental health counselor,32.60,74.60,46.25,50.00,-1.88,48.12,42.57,81.25
+Actor,Artist,47.00,51.60,50.00,50.00,-1.88,50.00,44.38,100.00
+Chief executive,Loan officer,30.60,51.60,50.00,56.41,-1.90,53.20,51.73,93.59
+Surgeon,Medical assistant,20.00,88.80,51.62,47.62,-1.92,49.62,48.66,96.00
+Surgeon,Nurse practitioner,20.00,89.80,51.62,45.23,-1.92,48.43,46.44,84.10
+First-line supervisor of retail sales workers,Social and human service assistant,44.60,75.30,47.23,51.25,-1.98,49.23,47.97,88.19
+Pest control worker,Housekeeping cleaner,5.10,88.40,54.41,47.50,-2.03,50.95,48.09,90.15
+Cutting worker,Order clerk,31.10,58.30,66.25,50.00,-2.08,58.12,39.25,8.75
+Chemists and materials scientist,Medical scientist,36.00,51.80,56.25,48.69,-2.14,52.47,36.10,57.73
+Lawyer,Legal secretary,39.50,96.40,50.00,46.55,-2.17,48.28,43.16,76.81
+Computer network architect,Legal secretary,7.70,96.40,52.50,51.72,-2.17,52.11,45.91,88.88
+Cost estimator,Executive secretary,17.70,90.00,30.00,50.00,-2.34,40.00,37.23,56.67
+Computer systems manager,Executive secretary,27.70,90.00,47.50,50.00,-2.35,48.75,42.41,76.67
+Computer support specialist,Payroll and timekeeping clerk,26.20,88.20,47.50,54.35,-2.38,50.93,45.67,67.61
+First-line supervisor of retail sales workers,Advertising sales agent,44.60,52.70,48.61,50.00,-2.42,49.30,48.51,98.61
+Cost estimator,Insurance sales agent,17.70,54.90,37.50,56.81,-2.42,47.16,39.80,73.64
+Surgeon,Medical records specialist,20.00,88.90,50.00,48.38,-2.42,49.19,46.06,95.16
+First-line supervisor of housekeeping and janitorial workers,Lodging manager,44.10,61.60,45.45,48.75,-2.42,47.10,45.95,89.20
+Purchasing manager,Marketing manager,47.70,62.40,47.50,52.50,-2.50,50.00,38.34,67.50
+Purchasing manager,Marketing specialist,47.70,61.70,43.75,52.50,-2.50,48.12,44.98,58.75
+Industrial production manager,Public relations manager,19.10,66.40,32.50,62.50,-2.50,47.50,35.44,32.50
+Operation manager,Marketing manager,37.10,62.40,50.00,52.50,-2.50,51.25,50.34,30.00
+Operation manager,Public relations manager,37.10,66.40,48.75,71.25,-2.50,60.00,42.19,22.50
+Financial and investment analyst,Accountant,43.90,57.00,55.00,50.00,-2.50,52.50,50.59,95.00
+Purchasing manager,Social and community service manager,47.70,71.70,50.00,50.00,-2.50,50.00,49.38,100.00
+Property assessor,Insurance underwriter,34.20,56.90,53.75,37.50,-2.50,45.62,43.32,43.75
+Industrial production manager,Accountant,19.10,57.00,48.75,50.00,-2.50,49.38,44.44,98.75
+Software developer,Accountant,20.20,57.00,51.25,48.75,-2.50,50.00,49.03,72.50
+Operation manager,Insurance underwriter,37.10,56.90,56.25,22.50,-2.50,39.38,38.72,36.25
+Web developer,Real estate broker,19.40,57.00,46.25,58.75,-2.50,52.50,50.31,87.50
+Chemical engineer,Medical appliance technician,21.60,58.90,52.50,48.75,-2.50,50.62,49.95,93.75
+Network and computer systems administrator,Compliance officer,16.70,51.80,48.75,47.50,-2.50,48.12,36.73,51.25
+Actor,Author,47.00,53.80,50.00,50.00,-2.50,50.00,47.50,100.00
+Computer systems manager,Loan officer,27.70,51.60,50.00,52.56,-2.53,51.28,49.98,97.44
+Computer systems analyst,Public safety telecommunicator,37.80,78.20,50.00,51.31,-2.56,50.66,50.62,98.69
+Electrical and electronic engineering technician,Psychiatric technician,11.60,69.50,50.00,50.00,-2.68,50.00,41.53,67.50
+Surgeon,Surgical technologist,20.00,76.90,48.39,50.00,-2.71,49.19,49.15,95.16
+Materials engineer,Medical records specialist,13.50,88.90,47.50,50.00,-2.81,48.75,46.01,97.50
+Chemical engineer,Pharmacy technician,21.60,79.30,51.25,50.00,-2.83,50.62,27.66,30.48
+Food service manager,Fast food and counter worker,46.70,66.30,42.50,44.83,-2.90,43.66,42.39,52.84
+Database administrator,Receptionist,30.80,89.10,48.75,57.14,-2.94,52.95,42.30,89.11
+Materials engineer,Ophthalmic medical technician,13.50,73.70,46.25,50.00,-2.94,48.12,39.86,81.25
+Sales manager,Advertising sales agent,33.10,52.70,48.75,59.61,-3.03,54.18,48.56,62.59
+Project management specialist,Marketing manager,47.30,62.40,48.75,51.25,-3.12,50.00,40.66,62.50
+Counter and rental clerk,Order clerk,38.70,58.30,75.00,40.63,-3.12,57.81,33.12,12.50
+Information security analyst,Accountant,19.30,57.00,51.25,48.75,-3.12,50.00,45.04,97.50
+Software developer,Insurance underwriter,20.20,56.90,43.75,50.00,-3.12,46.88,43.40,91.25
+Chief executive,Executive secretary,30.60,90.00,42.50,52.08,-3.12,47.30,41.06,73.75
+Food service manager,Social and human service assistant,46.70,75.30,42.50,53.75,-3.12,48.12,38.98,11.25
+Materials engineer,Filling machine operator,13.50,57.30,51.25,50.00,-3.12,50.62,46.15,63.75
+Civil engineer,Real estate broker,16.90,57.00,40.00,48.75,-3.12,44.38,35.20,33.75
+Web developer,Payroll and timekeeping clerk,19.40,88.20,37.50,52.18,-3.18,44.84,43.91,75.97
+First-line supervisor of housekeeping and janitorial workers,Housekeeping cleaner,44.10,88.40,50.00,56.25,-3.22,53.12,48.95,84.20
+Web and digital interface designer,Insurance sales agent,42.70,54.90,51.25,9.09,-3.23,30.17,20.84,55.34
+Materials engineer,Biological scientist,13.50,55.00,43.75,50.00,-3.25,46.88,40.30,86.25
+First-line supervisor of non-retail sales workers,Order clerk,35.90,58.30,42.85,64.06,-3.33,53.46,51.21,78.79
+Surgeon,Pharmacist,20.00,57.80,50.00,47.50,-3.52,48.75,27.05,81.77
+Chief executive,Receptionist,30.60,89.10,41.25,55.36,-3.68,48.30,44.54,69.82
+Purchasing manager,Financial manager,47.70,56.20,51.25,53.75,-3.75,52.50,38.11,37.50
+Project management specialist,Human resources manager,47.30,76.50,45.00,50.00,-3.75,47.50,43.34,95.00
+Project management specialist,Human resources worker,47.30,76.50,50.00,50.00,-3.75,50.00,46.25,100.00
+Purchasing manager,Training and development specialist,47.70,56.70,42.50,50.00,-3.75,46.25,42.78,92.50
+Software developer,Public relations specialist,20.20,76.20,41.25,51.25,-3.75,46.25,40.66,82.50
+Lawyer,Mental health counselor,39.50,74.60,50.00,35.00,-3.75,42.50,34.44,80.00
+Chief executive,Real estate broker,30.60,57.00,43.75,43.75,-3.75,43.75,41.83,60.00
+First-line supervisor of security workers,Public safety telecommunicator,22.50,78.20,42.50,59.21,-3.84,50.86,47.24,83.29
+Web and digital interface designer,Graphic designer,42.70,54.70,50.00,58.11,-3.89,54.05,43.00,81.28
+Mechanical engineer,Graphic designer,10.10,54.70,50.00,48.65,-3.89,49.33,32.43,45.13
+Personal financial advisor,Entertainment and recreation manager,32.60,50.10,46.25,56.76,-3.89,51.51,38.02,73.88
+Chief executive,Entertainment and recreation manager,30.60,50.10,43.75,54.05,-3.90,48.90,43.44,52.27
+Computer systems analyst,Executive secretary,37.80,90.00,50.00,50.00,-3.90,50.00,43.34,79.17
+Cafeteria attendant,Food preparation worker,43.30,58.70,50.00,50.00,-4.00,50.00,45.40,60.00
+Lawyer,School psychologist,39.50,87.90,48.75,54.69,-4.17,51.72,39.51,69.06
+Electrical and electronics engineer,Medical scientist,11.60,51.80,69.70,42.11,-4.23,55.90,44.09,37.64
+First-line supervisor of production and operating workers,Order clerk,23.50,58.30,50.00,57.81,-4.24,53.91,53.44,85.36
+Management analyst,Operations research analyst,46.60,55.00,55.00,51.25,-4.38,53.12,51.45,68.75
+Project management specialist,Financial manager,47.30,56.20,42.50,53.75,-4.38,48.12,35.44,46.25
+Postsecondary teacher,Mental health counselor,46.60,74.60,52.50,37.50,-4.38,45.00,28.73,30.00
+Mechanical engineer,Filling machine operator,10.10,57.30,48.75,50.00,-4.38,49.38,36.00,61.25
+Director,Author,43.60,53.80,62.50,42.50,-4.38,52.50,42.22,65.00
+Software developer,Customer service representative,20.20,65.30,52.50,50.00,-4.42,51.25,47.91,87.50
+Software quality tester,Insurance claims and policy processing clerk,44.10,80.10,43.75,50.00,-4.49,46.88,41.42,68.75
+Chemical engineer,Biological scientist,21.60,55.00,46.25,50.00,-4.55,48.12,41.25,96.25
+Software quality tester,Graphic designer,44.10,54.70,48.75,51.35,-4.55,50.05,40.59,70.37
+Electrical and electronic engineering technician,Payroll and timekeeping clerk,11.60,88.20,57.50,50.00,-4.77,53.75,52.00,50.87
+Personal financial advisor,School psychologist,32.60,87.90,48.75,54.69,-4.86,51.72,50.09,84.69
+Chemical technician,Pharmacy technician,35.00,79.30,48.22,50.00,-4.88,49.11,46.46,38.88
+Sales manager,Training and development specialist,33.10,56.70,57.50,50.00,-5.00,53.75,49.22,87.50
+Operation manager,Accountant,37.10,57.00,56.25,50.00,-5.00,53.12,50.99,83.75
+Cost estimator,Real estate broker,17.70,57.00,45.00,48.75,-5.00,46.88,42.05,56.25
+Chief executive,Compliance officer,30.60,51.80,37.50,51.25,-5.00,44.38,43.56,56.25
+Personal financial advisor,Fundraiser,32.60,74.90,45.00,65.00,-5.00,55.00,49.19,67.50
+Computer systems manager,Legal secretary,27.70,96.40,48.75,56.89,-5.08,52.83,40.92,91.86
+First-line supervisor of retail sales workers,Payroll and timekeeping clerk,44.60,88.20,47.22,41.30,-5.09,44.27,35.23,60.02
+Retail salesperson,Receptionist,49.20,89.10,42.85,53.58,-5.10,48.21,44.70,69.05
+First-line supervisor of non-retail sales workers,Human resources worker,35.90,76.50,44.65,68.75,-5.14,56.70,54.83,73.40
+Computer support specialist,File Clerk,26.20,76.00,45.00,24.00,-5.38,34.50,32.02,23.00
+Information security analyst,Executive secretary,19.30,90.00,65.00,50.00,-5.47,57.50,33.24,49.17
+Database administrator,Executive secretary,30.80,90.00,56.25,47.91,-5.47,52.09,23.36,35.84
+Sales manager,Human resources manager,33.10,76.50,48.75,50.00,-5.62,49.38,42.49,36.25
+Lawyer,Paralegal,39.50,83.00,50.00,50.00,-5.62,50.00,40.62,100.00
+Chemical engineer,Medical and health services manager,21.60,71.80,60.00,37.50,-5.62,48.75,35.95,32.50
+Property assessor,Loan officer,34.20,51.60,50.00,50.00,-5.69,50.00,46.48,87.50
+Chemical engineer,Medical assistant,21.60,88.80,57.50,47.62,-5.74,52.56,50.41,70.83
+Surgeon,Medical scientist,20.00,51.80,54.84,50.00,-5.80,52.42,42.41,57.13
+Property assessor,First-line supervisor of office and administrative support workers,34.20,65.80,40.00,50.00,-5.97,45.00,40.46,82.50
+Management analyst,Marketing manager,46.60,62.40,51.25,56.25,-6.25,53.75,41.16,70.00
+Project management specialist,Operations research analyst,47.30,55.00,38.75,58.75,-6.25,48.75,42.30,70.00
+Architectural and engineering manager,Financial manager,12.80,56.20,43.75,48.75,-6.25,46.25,34.95,10.00
+Computer network architect,Graphic designer,7.70,54.70,42.50,50.00,-6.49,46.25,29.09,47.77
+Chemical technician,Phlebotomist,35.00,90.30,55.36,50.00,-6.76,52.68,35.13,76.78
+Software quality tester,Operations research analyst,44.10,55.00,48.75,18.75,-6.88,33.75,30.86,45.00
+Cost estimator,Loan officer,17.70,51.60,30.00,58.98,-6.96,44.48,43.86,71.03
+Database administrator,Legal secretary,30.80,96.40,53.75,56.89,-7.25,55.33,48.94,43.67
+Project management specialist,Public relations specialist,47.30,76.20,50.00,53.75,-7.50,51.88,45.58,96.25
+Wastewater treatment system operator,Filling machine operator,7.30,57.30,28.75,83.75,-7.50,56.25,51.97,17.50
+Electrical and electronic engineering technician,Medical scientist,11.60,51.80,52.50,40.79,-7.69,46.64,39.34,50.13
+First-line supervisor of retail sales workers,First-line supervisor of food preparation and serving workers,44.60,53.50,50.00,58.75,-7.89,54.38,49.75,36.81
+Management analyst,Financial manager,46.60,56.20,51.25,52.50,-8.12,51.88,36.14,18.75
+Financial and investment analyst,Financial manager,43.90,56.20,53.75,43.75,-8.12,48.75,35.14,50.00
+Personal financial advisor,Lodging manager,32.60,61.60,50.00,50.00,-8.12,50.00,45.69,80.00
+Cost estimator,Tax preparer,17.70,66.30,56.25,50.00,-8.44,53.12,44.23,58.75
+Postsecondary teacher,Secondary school teacher,46.60,56.90,50.00,33.34,-8.57,41.66,20.94,39.16
+Computer programmer,Legal secretary,21.50,96.40,47.50,53.45,-8.70,50.47,34.57,29.31
+Information security analyst,Insurance underwriter,19.30,56.90,50.00,12.50,-8.75,31.25,29.19,60.00
+Lawyer,Real estate broker,39.50,57.00,36.25,38.75,-8.75,37.50,33.72,10.00
+Cost estimator,Graphic designer,17.70,54.70,42.50,62.16,-9.09,52.33,30.98,23.71
+Chief executive,Lodging manager,30.60,61.60,60.00,33.75,-9.38,46.88,41.41,48.75
+Counter and rental clerk,File Clerk,38.70,76.00,59.38,50.00,-9.75,54.69,38.91,59.38
+Food service manager,Lodging manager,46.70,61.60,62.50,47.50,-10.00,55.00,49.50,67.50
+Property assessor,Social and community service manager,34.20,71.70,43.75,51.25,-10.62,47.50,35.44,65.00
+Food service manager,Medical and health services manager,46.70,71.80,61.25,32.50,-10.62,46.88,41.89,21.25
+Computer systems manager,Lodging manager,27.70,61.60,37.50,40.00,-10.62,38.75,33.77,55.00
+Cost estimator,Public relations specialist,17.70,76.20,33.75,61.25,-11.25,47.50,41.84,47.50
+Cafeteria attendant,Waiter,43.30,68.80,50.00,31.09,-11.70,40.54,28.23,55.67
+Logistician,Receptionist,38.70,89.10,45.00,48.22,-11.77,46.60,42.35,83.22
+Financial and investment analyst,Marketing manager,43.90,62.40,50.00,56.25,-11.88,53.12,38.58,51.25
+Dentist,Dental hygienist,39.50,95.70,39.47,50.00,-12.20,44.74,23.07,86.84
+Aerospace engineer,Biological scientist,15.20,55.00,40.00,54.05,-12.33,47.02,36.23,70.94
+Chemical technician,Ophthalmic medical technician,35.00,73.70,64.28,50.00,-12.82,57.14,54.03,82.15
+Computer systems manager,First-line supervisor of office and administrative support workers,27.70,65.80,75.00,50.00,-13.44,62.50,59.14,75.00
+Cost estimator,Advertising sales agent,17.70,52.70,33.75,90.39,-13.64,62.07,53.16,29.52
+Materials engineer,Medical and health services manager,13.50,71.80,47.50,45.00,-13.75,46.25,40.22,7.50
+Network and computer systems administrator,Public safety telecommunicator,16.70,78.20,32.50,57.90,-15.38,45.20,38.48,48.29
+Chemical technician,Medical and health services manager,35.00,71.80,51.78,40.00,-17.65,45.89,35.59,53.58

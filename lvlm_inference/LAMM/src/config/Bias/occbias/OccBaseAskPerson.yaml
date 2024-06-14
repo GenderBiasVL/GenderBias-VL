@@ -1,0 +1,19 @@
+scenario_cfg:
+  dataset_name: OccBaseAskPerson
+  base_data_path: GenderBias-VL/exp_flip
+  meta_file: GenderBias-VL/construction/vq_generation/test_meta_file/Vbias/occ_test_base_ask_person.json
+  ppl: True
+  option_content: False
+
+eval_cfg:
+  instruction_cfg: 
+    query_type: query_pool
+    query_assigned_ids: 0 # otter 1 # use for vqa_prompts
+    template_assigned_ids: 0 # otter 1 # use for vqa_answer_templates
+  inferencer_cfg:
+    inferencer_type: PPL #Direct #
+    batch_size: 32
+    CoT: False
+    max_new_tokens: 256
+  metric_cfg:
+    metric_type: basic
