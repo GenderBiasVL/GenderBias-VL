@@ -105,8 +105,8 @@ First `cd ./construction`.
 
 3. Conduct image filtering by running following scripts.
     ```sh
-      cd ./runsh
-      bash filter.sh
+    cd ./runsh
+    bash filter.sh
     ```
     You should first set up the [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything).
 
@@ -114,8 +114,8 @@ First `cd ./construction`.
 
 4. Bleach gender representation in images.
     ```sh
-      cd ./runsh
-      bash bleach.sh
+    cd ./runsh
+    bash bleach.sh
     ```
     Similar to how you set up `filter.sh`.
 
@@ -172,7 +172,7 @@ Set the `image_type`, `ask_item`, and `swap` parameter in Lines 19-21 to control
 
 ## License
 
-Please see the [CC BY NC 4.0 licence](./LICENSE)
+Please see the [CC BY NC 4.0 licence](./LICENSE).
 
 ## Acknowledgement
 
