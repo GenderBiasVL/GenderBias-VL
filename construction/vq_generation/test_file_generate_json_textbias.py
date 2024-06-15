@@ -18,7 +18,7 @@ data_root = "../../exp_flip"
 
 image_type = "base" # base cf
 ask_item = "gender" # gender
-swap = True # False True
+swap = False # False True
 
 exp_dir = "./test_meta_file/Lbias"
 os.makedirs(exp_dir, exist_ok=True)

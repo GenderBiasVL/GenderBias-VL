@@ -1,6 +1,6 @@
 scenario_cfg:
   dataset_name: OccBaseAskGender
-  base_data_path: GenderBias-VL/exp_flip
+  base_data_path: GenderBias-VL/exp_flip # the root of images
   meta_file: GenderBias-VL/construction/vq_generation/test_meta_file/VLbias/occ_test_base_ask_gender.json
   ppl: True
   option_content: False
