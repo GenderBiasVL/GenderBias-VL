@@ -181,7 +181,7 @@ The [LVLMs inference](./lvlm_inference/) is based on [LAMM](https://github.com/O
 ## Citation
 
 ```
-@misc{hall2023visogender,
+@misc{xiao2023genderbias-VL,
       title={GenderBias-\emph{VL}: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing}, 
       author={Yisong Xiao, Aishan Liu, QianJia Cheng, Zhenfei Yin, Siyuan Liang, Jiapeng Li, Jing Shao, Xianglong Liu, Dacheng Tao},
       year={2024},
